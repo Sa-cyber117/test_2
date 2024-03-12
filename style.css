@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Q1{
+    padding: 20px;
+}
+
+.Q1 .a1{
+    padding: 10px;
+}
+
+.Q{
+    padding: 0 0 10px 20px;
+}
+
+.Q .a{
+    padding: 10px;
+}
+
+.parent{
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ch1{
+    height: 20px;
+    width: 20px;
+    padding: 10px;
+    background-color: aqua;
+    order: 4;
+}
+
+
+
+.ch2{
+    height: 20px;
+    width: 20px;
+    padding: 10px;
+    background-color: white;
+    order: 4;
+}
+.ch3{
+    height: 20px;
+    width: 20px;
+    padding: 10px;
+    background-color: chartreuse;
+    order: 2;
+}
+.ch4{
+    height: 20px;
+    width: 20px;
+    padding: 10px;
+    background-color: rgb(238, 215, 59);
+}
+
